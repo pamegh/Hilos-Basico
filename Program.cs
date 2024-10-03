@@ -25,7 +25,7 @@ namespace Hilos_Basico
             {
                 Console.WriteLine("Hilo Principal "+ i);
                 Thread.Sleep(500);
-            }  
+            }   
         }
          
         public static void funcionHilo2()
